@@ -37,7 +37,7 @@ bot.on('message', msg => {
         break;
 
         case "admin":
-            msg.author.send("CipherTextCTFv2");
+            msg.author.send("Abdullah");
         break;
 
         case "l3tM3G3tmYFl4gg_B07":
