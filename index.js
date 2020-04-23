@@ -4,7 +4,7 @@ fs = require('fs');
 
 const bot = new Discord.Client();
 
-const token =  "NzAyMzAzNDI0NzgzMzE5MTEy.Xp-FJA.DN4iZBdbegVR6PzQ0_DPjfr9qIk";
+const token =  "[DELETED]";
 const prifix = "!";
 
 bot.login(token);
